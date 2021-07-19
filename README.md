@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Koushik Roy
+- 👋 Hi, I’m Koushik Roy
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Data Science fields.
